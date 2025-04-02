@@ -51,7 +51,7 @@ import java.util.ArrayList;
             this.imię = imię;
         }
 
-        public void dodajRezerwację(Wydarzenie wydarzenie) {
+        public void dodajRezerwacje(Wydarzenie wydarzenie) {
             if (this.listaRezerwacji == null) {
                 this.listaRezerwacji = new ArrayList<>();
             }

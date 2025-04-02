@@ -57,6 +57,7 @@ public class SystemRezerwacji {
                     wydarzenie.setCena(nowaCena);
                     System.out.println("Cena wydarzenia " + nazwa + "została zmieniona na " + nowaCena + " zł.");
                     return;
+
                 }
             }
         }

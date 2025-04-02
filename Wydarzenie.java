@@ -85,6 +85,7 @@ public class Wydarzenie {
            System.out.println( "Twoje miejsce zostało zarezerwowane");
         } else {
             System.out.println("Brak dostępnych miejsc");
+
         }
 
     }

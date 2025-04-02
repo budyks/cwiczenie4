@@ -38,6 +38,7 @@ public class main {
         System.out.println("\nDostępne miejsca na koncercie: " + koncert.getDostępneMiejsca() +
                 " z " + koncert.getMaxLiczbaMiejsc());
 
+
 }
 }
 

@@ -63,6 +63,7 @@ import java.util.ArrayList;
         public void anulujRezerwację(Wydarzenie wydarzenie) {
             listaRezerwacji.remove(wydarzenie);
             System.out.println("Rezerwacja została anulowana.");
+
         }
 
     }
